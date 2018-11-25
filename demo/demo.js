@@ -1,4 +1,6 @@
 const request = require('../')
+
+console.log(5555, request)
 const xxx = request('http://xxx')
     
 /**
